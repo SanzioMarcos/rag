@@ -1,0 +1,27 @@
+====================================================================
+DIRETRIZES INTERNAS E PROCEDIMENTOS - CONTAFIEL CONTABILIDADE
+====================================================================
+
+1. INFORMAÇÕES GERAIS DO ESCRITÓRIO
+- Nome oficial: ContaFiel Assessoria Contábil Ltda.
+- Horário de funcionamento: Segunda a sexta-feira, das 08:00 às 17:30 (com 1 hora e 30 minutos de almoço).
+- Localização da Copa/Cozinha: Fica no 2º andar, ao lado da sala de arquivo morto.
+- Rede Wi-Fi de Visitantes: Nome "ContaFiel_Guest" | Senha: "SuporteContabil2026!".
+
+2. PROTOCOLOS DO DEPARTAMENTO FISCAL
+- O fechamento do ICMS de clientes do regime Normal deve ser concluído impreterivelmente até o dia 08 de cada mês.
+- As guias do Simples Nacional (DAS) devem ser enviadas para os clientes até o dia 15 de cada mês para evitar correria no vencimento.
+- Em caso de dúvidas sobre classificação fiscal (NCM), consultar o Supervisor Roberto no ramal 204.
+
+3. PROTOCOLOS DO DEPARTAMENTO DE PESSOAL (DP)
+- Os documentos de admissão de novos funcionários de clientes devem ser recebidos com no mínimo 5 dias úteis de antecedência da data de início.
+- O fechamento da folha de pagamento interna e de clientes ocorre entre os dias 25 e 28 de cada mês.
+- O sistema principal utilizado para envio do eSocial é o sistema "Alterdata". Se o sistema apresentar instabilidade, abrir chamado interno com o TI no ramal 101.
+
+4. POLÍTICA DE SEGURANÇA DA INFORMAÇÃO
+- É estritamente proibido compartilhar senhas dos portais do Governo (e-CAC, Conectividade Social) por WhatsApp. Use apenas o gerenciador de senhas interno (Bitwarden).
+- Ao levantar da mesa, o funcionário deve obrigatoriamente bloquear a tela do computador (Atalho: Windows + L).
+
+5. SISTEMA DE REEMBOLSO DE DESPESAS
+- Viagens a serviço ou visitas a clientes geram reembolso de quilometragem no valor de R$ 1,20 por KM rodado.
+- Os comprovantes de alimentação (limite de R$ 45,00 por dia) devem ser colados em relatório próprio e entregues à Financeira (Cláudia) até o último dia útil do mês corrente.
