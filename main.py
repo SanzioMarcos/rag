@@ -9,16 +9,16 @@ load_dotenv()
 # Obtém chave da API pelas variáveis.
 API_KEY = os.getenv("API_KEY")
 
-# Define endereço para enviar mensagens.
-url = "https://router.huggingface.co/v1/chat/completions"
+def send_llm_request_with_debug(prompt, checagem = True):        
+    # Define endereço para enviar mensagens.
+    url = "https://router.huggingface.co/v1/chat/completions"
 
-# Configura cabeçalhos exigidos pela requisição.
-headers = {
-    "Authorization": f"Bearer {API_KEY}",
-    "Content-Type": "application/json",
-}
+    # Configura cabeçalhos exigidos pela requisição.
+    headers = {
+        "Authorization": f"Bearer {API_KEY}",
+        "Content-Type": "application/json",
+    }
 
-def send_llm_request_with_debug(prompt, checagem = True):
     # Monta dados enviados para o modelo.
     payload = {
         "model": "Qwen/Qwen3-8B",
@@ -109,5 +109,5 @@ while True:
     if ask == 'sair':
         print("Tchau.")
         break
-    
+
     send_llm_request_with_debug(ask, checagem = False)
